@@ -1,5 +1,7 @@
 # 计算机专业术语对照
 
+B站 读音 https://www.bilibili.com/video/BV1YJ411h7xN?spm_id_from=333.337.search-card.all.click
+
 ## A
 
 - abstraction layer，抽象层
